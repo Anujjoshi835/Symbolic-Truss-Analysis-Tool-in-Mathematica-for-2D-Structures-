@@ -1,0 +1,1 @@
+# Symbolic-Truss-Analysis-Tool-in-Mathematica-for-2D-Structures-
